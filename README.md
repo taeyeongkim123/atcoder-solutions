@@ -1,4 +1,4 @@
-# atcoder-solutions
+# coding-test-solutions
 
 CS 알고리즘 학습 기록용으로 [AtCoder](https://atcoder.jp/), [Programmers](https://school.programmers.co.kr/)
 문제를 풀고 정리하는 저장소입니다.

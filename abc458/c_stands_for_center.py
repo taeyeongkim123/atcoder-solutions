@@ -29,11 +29,3 @@ def solve(s: str) -> int:
             total += min(i, n - 1 - i) + 1
     return total
 
-
-def main() -> None:
-    s = sys.stdin.readline().strip()
-    print(solve(s))
-
-
-if __name__ == "__main__":
-    main()
